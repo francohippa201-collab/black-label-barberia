@@ -1,0 +1,1 @@
+console.log("Black Label Barbería: sitio cargado correctamente.");
